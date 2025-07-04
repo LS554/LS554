@@ -1,3 +1,4 @@
 ### Hi there 👋
-Currently learning C.  
-Also interested in Nim & Clojure.
+Ruby 💎  
+Java ☕  
+C ⚙️   
