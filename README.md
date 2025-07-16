@@ -1,4 +1,4 @@
 ### Hi there 👋
-D / C ⚙️  
-Ruby 💎  
+D / C ⚙️    
 Java ☕  
+Ruby 💎
