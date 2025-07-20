@@ -1,6 +1,7 @@
 ### Hi there 👋
-D / C ⚙️    
-Java ☕  
+D 🇩  
+C 🇨  
+Assembly ⚙️  
 Ruby 💎
 
 Gists:
