@@ -1,6 +1,5 @@
 ### Hi there 👋
-D 🇩  
-C 🇨  
+D 🇩 / C 🇨  
 Assembly ⚙️  
 Ruby 💎
 
