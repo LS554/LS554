@@ -1,7 +1,6 @@
 ### Hi there 👋
-C 🇨 / D 🇩   
-Assembly ⚙️  
-Ruby 💎 (sometimes)  
+C 🇨  
+Assembly ⚙️   
 
 Gists:
 https://gist.github.com/LS554
