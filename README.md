@@ -1,6 +1,5 @@
 ### Hi there 👋
-C 🇨  
-Assembly ⚙️   
+C 🇨    
 
 Gists:
 https://gist.github.com/LS554
